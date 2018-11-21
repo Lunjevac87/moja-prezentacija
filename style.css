@@ -1,0 +1,15 @@
+body {
+    color: red;
+    background-color: yellowgreen;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1,h2,h3 {
+    font-family: 'Dancing Script', cursive;
+}
+header, footer {
+    color: green;
+    background-color: black;
+    overflow: auto;
+    background-image: linear-gradient(red, yellow, green);
+}
